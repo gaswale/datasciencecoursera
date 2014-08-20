@@ -1,5 +1,5 @@
 ## function to find the correlation between nitrate and sulfate
-## measurements
+## measurements 
 
 corr <- function(directory, threshold = 0) {
     
