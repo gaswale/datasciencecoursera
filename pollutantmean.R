@@ -1,4 +1,4 @@
-## function to find the mean of pollution from 332 measuring stations
+## function to find the mean of pollution from 332 measuring stations 
 
 pollutantmean <- function(directory, pollutant, id = 1:332) {
     
