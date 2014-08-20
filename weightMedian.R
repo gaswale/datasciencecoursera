@@ -12,4 +12,4 @@ weightMedian <- function(directory, Day) {
     
     median(dat_subset$Weight, na.rm=TRUE)
     
-}
+} 
