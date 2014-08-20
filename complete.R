@@ -1,4 +1,4 @@
-## function to find the number of complete cases in a pollution data set
+## function to find the number of complete cases in a pollution data set 
 
 complete <- function(directory, id = 1:332) {
     
